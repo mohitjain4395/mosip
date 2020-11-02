@@ -1,2 +1,2 @@
-# QR dlib-face-recognition-android
+# QR android validation application using face recognition
 
